@@ -24,15 +24,18 @@ h1 {
 
 h2 {
   font-size: 1.5rem;
+}
+
+.indented-heading {
   background-color: hsl(45deg, 100%, 50%);
+  border-bottom: 8px solid hsl(45deg, 100%, 40%);
   width: fit-content;
   padding: 24px 32px;
   margin-left: -32px;
   margin-top: -8px;
-  border-bottom: 8px solid hsl(45deg, 100%, 40%);
 }
 
-p {
+p { 
   font-size: 1.25rem;
 }
 
